@@ -1,4 +1,7 @@
 # Hello!
+
+[![wakatime](https://wakatime.com/badge/user/875505c9-4d51-4b96-b722-970568fbe210.svg)](https://wakatime.com/@875505c9-4d51-4b96-b722-970568fbe210)
+
 ### My name is Shannon, and welcome to my GitHub! 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 #### I am choosing to keep my repos private until they are in a state I am happy with. As projects are complete, and code has been refactored to my standards, then they will show up as public.
