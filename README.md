@@ -5,7 +5,9 @@
 
 ##### I am currently working on:
 :open_book: A web app that will allow you receive recomendations for works to read (based on what you have already read) on [Archive of our Own](https://archiveofourown.org)
+
 :black_nib: A web app to extract and format tags attached to posts on [Tumblr](https://tumblr.com) to allow a way to easily copy them to your own posts
+
 :chart_with_upwards_trend: A personal dashboard (displayed as a home page on my browser) to display relevant information to my life, such as the status of my self-hosted applications from my Linux home server, my health data from my iPhone, and the progress I am making on my personal and coding goals using the data captured from [Beeminder](https://www.beeminder.com), [WakaTime](/wakatime.com/dashboard), and GitHub itself.
 
 
